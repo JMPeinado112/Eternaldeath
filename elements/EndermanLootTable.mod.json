@@ -1,0 +1,10 @@
+{
+  "_fv": 18,
+  "_type": "loottable",
+  "definition": {
+    "type": "Entity",
+    "pools": [],
+    "name": "entities/enderman",
+    "namespace": "minecraft"
+  }
+}

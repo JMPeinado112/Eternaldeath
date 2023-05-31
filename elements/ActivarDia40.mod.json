@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "activarDia40",
+    "description": "Activar dia 40",
+    "category": "UPDATES",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

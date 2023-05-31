@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "activarDia10",
+    "description": "Activa el dia 10",
+    "category": "UPDATES",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

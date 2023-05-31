@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "skeletonToStrayDia5",
+    "description": "Transforma los esqueletos en strays",
+    "category": "SPAWNING",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "activarDia15",
+    "description": "Activa el dia 15",
+    "category": "UPDATES",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}
